@@ -1,2 +1,2 @@
 # Year10cs
-Yay!
+Basic game
