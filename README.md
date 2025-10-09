@@ -1,2 +1,2 @@
 # Year10cs
-Basic game
+Basic Java Game
